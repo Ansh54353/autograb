@@ -18,7 +18,7 @@ SLAVE_BOT_USERNAME = '@slave_waifu_bot'
 
 DELAYS = {
     'maxx': (5, 6),
-    'minn': (3, 4)
+    'minn': (2, 3)
 }
 
 REQUIRED_TEXT = "✨ ᴀ ɴᴇᴡ ᴄʜᴀʀᴀᴄᴛᴇʀ ʜᴀꜱ ᴀᴘᴘᴇᴀʀᴇᴅ! ✨\nᴜꜱᴇ /grab (ɴᴀᴍᴇ) ᴛᴏ ᴀᴅᴅ ɪᴛ ɪɴ ʏᴏᴜʀ ʜᴀʀᴇᴍ."
