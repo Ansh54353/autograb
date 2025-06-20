@@ -8,7 +8,7 @@ from keep_alive import keep_alive
 API_ID = int(os.environ['API_ID'])
 API_HASH = os.environ['API_HASH']
 PHONE_NUMBER = os.environ['PHONE_NUMBER']
-SESSION_NAME = 'waifu_bot_fixed'
+SESSION_NAME = 'waifu_bot_ansh'
 
 # Chat IDs
 SOURCE_GROUP = int(os.environ['SOURCE_GROUP'])  # e.g., -1002569925306
